@@ -1,4 +1,4 @@
-# Hardware Image Filter
+# Hardware Median Filter
 
 This project implements a median filter in RTL, designed to be synthesized for FPGA deployment. However, due to the lack of FPGA hardware access, all results are demonstrated using RTL simulation via a testbench.
 
